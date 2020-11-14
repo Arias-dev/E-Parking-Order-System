@@ -1,5 +1,5 @@
 # E-Parking-Order-System
-ini merupakan project sistem parkir
+ini merupakan project sistem parkir pada c++
 
 #include <iostream>
 #include <string.h>
